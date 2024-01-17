@@ -1,0 +1,6 @@
+{"sub_dep_id":1, "sub_dep_name":"managers", "department_id":1, "budget":3000}
+{"sub_dep_id":2, "sub_dep_name":"managers2", "department_id":1, "budget":1500}
+{"sub_dep_id":1, "sub_dep_name":"sales support john", "department_id":2, "budget":2000}
+{"sub_dep_id":2, "sub_dep_name":"sales support joe", "department_id":2, "budget":1000}
+{"sub_dep_id":3, "sub_dep_name":"sales support johnson", "department_id":2, "budget":2500}
+{"sub_dep_id":4, "sub_dep_name":"sales support eduards", "department_id":2, "budget":2500}

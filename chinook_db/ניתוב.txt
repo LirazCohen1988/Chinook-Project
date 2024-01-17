@@ -1,0 +1,5 @@
+psql -h 127.0.0.1 -U postgres -d Chinook_Database -f "C:\Users\Yaakov Cohen\OneDrive\Desktop\Liraz\Final_project\chinook_db\chinook_dump.sql"
+
+
+psql -h 127.0.0.1 -U postgres -d Chinook_Database -f "C:\Users\Yaakov Cohen\OneDrive\Desktop\Liraz\Final_project\chinook_db\chinook_db.sql"
+
